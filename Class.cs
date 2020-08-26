@@ -7,6 +7,6 @@ namespace GitDemo2
 {
     public class Class
     {
-
+        private string name { get; set; }
     }
 }
