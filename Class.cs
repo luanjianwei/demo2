@@ -7,5 +7,6 @@ namespace GitDemo2
 {
     public class Class
     {
+
     }
 }
